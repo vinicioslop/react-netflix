@@ -1,0 +1,20 @@
+.banner-container {
+    width: 100%;
+}
+
+.banner-imagem-falsa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 360px;
+
+    background-color: #212529;
+}
+
+.banner-texto {
+    font-size: 26px;
+    color: #ffffff;
+
+    background-color: transparent;
+}
